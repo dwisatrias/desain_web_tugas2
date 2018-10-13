@@ -1,0 +1,16 @@
+body {
+    background-image: url(clouds.jpg)
+}
+h1 {
+    font-style: oblique;
+    font-size: 50pt;
+    text-align: center;
+}
+pre {
+    font-variant: no-contextual;
+    text-align: center;
+}
+h5 {
+    font-style: oblique;
+    text-align: center;
+}
